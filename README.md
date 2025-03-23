@@ -1,5 +1,3 @@
----
-
 # 🎓 **bsc_dpdm24**  
 ## **SIDS KKU Data Preparation and Data Mining**  
 > **รหัสนักศึกษา:** 653020214-2 รัชชานนท์ พันกาฬสินธุ์
