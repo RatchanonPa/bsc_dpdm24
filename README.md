@@ -42,6 +42,7 @@
 - [📝 สอบกลางภาค: Data Preprocessing](#midterm-test-data-preprocessing)
 - [💻 โครงงาน: Data Preparation & Data Mining](#project-data-preparation--data-mining)
 - [🏆 การแข่งขัน Machine Learning](#machine-learning-competition)
+- [📝 สอบปลายภาค: Classification and Clustering Techniques](#classification-and-clustering-techniques)
 
 ---
 
@@ -217,10 +218,10 @@
 - **Model Selection:** ทดลองใช้โมเดลหลากหลายประเภท (Random Forest, XGBoost, SVM etc.)
 - **Hyperparameter Tuning:** ปรับแต่งพารามิเตอร์เพื่อให้โมเดลมีประสิทธิภาพสูงสุด
 - **Cross-Validation:** ตรวจสอบความแม่นยำด้วยเทคนิค stratified k-fold cross-validation
-
-**โค้ดตัวอย่าง:** [💻 Competition Code](https://github.com/RatchanonPa/bsc_dpdm24/blob/main/Thal_Group_Prediction.ipynb) - แสดงวิธีการสร้างโมเดลและทำนายผลลัพธ์
+  **โค้ดตัวอย่าง:** [💻 Competition Code](https://github.com/RatchanonPa/bsc_dpdm24/blob/main/Thal_Group_Prediction.ipynb) - แสดงวิธีการสร้างโมเดลและทำนายผลลัพธ์
 ---
 
+<a name="classification-and-clustering-techniques"></a>
 ## 📝 สอบปลายภาค: Classification and Clustering Techniques
 
 **รายละเอียด:**  
