@@ -78,7 +78,7 @@
 - **เอกสารประกอบการสอน:** [📄 ดาวน์โหลด PDF](https://github.com/RatchanonPa/bsc_dpdm24/blob/main/Lectures/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%203%20Preprocessing.pdf)  
 - **ตัวอย่างการปฏิบัติ:** 
   - [🧪 Data Preprocessing](https://github.com/RatchanonPa/bsc_dpdm24/blob/main/Chapter3_Data_Preprocessing.ipynb) - เทคนิคการเตรียมข้อมูลพื้นฐาน
-  - [🧪 PCA Demo](hhttps://github.com/RatchanonPa/bsc_dpdm24/blob/main/PCA.ipynb) - การลดมิติข้อมูลด้วยเทคนิค PCA
+  - [🧪 PCA Demo](https://github.com/RatchanonPa/bsc_dpdm24/blob/main/PCA.ipynb) - การลดมิติข้อมูลด้วยเทคนิค PCA
 
 <a name="chapter-6-mining-frequent-patterns-association-and-correlations"></a>
 ### **บทที่ 6: Mining Frequent Patterns & Associations**  
